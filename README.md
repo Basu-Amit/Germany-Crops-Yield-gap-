@@ -1,6 +1,6 @@
 # Germany crop Yield Gap Dashboard 🌾
 
-Interactive R Shiny dashboard visualizing crop yield gaps in Germany
+This repository contains R code which uses crop yield gaps data for Germany from open source data. Basically it produces Interactive R Shiny dashboard visualizing crop yield gaps in Germany
 using open data from the Global Yield Gap Atlas (GYGA).
 
 ## Features
