@@ -1,6 +1,6 @@
 # Germany crop Yield Gap Dashboard 🌾
 
-This repository contains R code which uses crop yield gaps data for Germany from open source data. Basically it produces Interactive R Shiny dashboard visualizing crop yield gaps in Germany
+This repository contains R code which uses crop yield gaps data for Germany from open source data. The crops include Barley, Wheat, Maize, Potato, Pea, Soyabean, Faba Bean. Basically it produces Interactive R Shiny dashboard visualizing crop yield gaps in Germany
 using open data from the Global Yield Gap Atlas (GYGA).
 
 ## Features
@@ -11,8 +11,8 @@ using open data from the Global Yield Gap Atlas (GYGA).
 
 ## Data
 - Source: Global Yield Gap Atlas (GYGA)
-- Crop: Wheat (rainfed)
-- Country: Netherlands
+- Crop: Barley, Wheat, Maize, Potato, Pea, Soyabean, Faba Bean
+- Country: Germany
 - License: CC BY-NC-SA 4.0 (data)
 
 ## Run locally
